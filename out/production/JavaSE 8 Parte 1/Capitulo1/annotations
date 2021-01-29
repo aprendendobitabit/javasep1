@@ -67,10 +67,3 @@ Ex:
 
 É possível definir a ordem de inicialização das funções dentro do codigo.
 Para isto, cada bloco do código precisa iniciar com chaves.
-
-Para uma melhor compreensão em números grandes, você pode digitar da seguinte forma:
-int million1 = 1000000; // 1000000
-int million2 = 1_000_000; // 1000000
-double annoyingButLegal = 1_00_0.0_0; //1000
-O underline não pode estar no início e nem ao lado do ponto nem ao final
-
